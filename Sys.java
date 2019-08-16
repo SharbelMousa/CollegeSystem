@@ -209,7 +209,7 @@ public class Sys {
 	}
 		return count;
 	}
-/************************************************* my functions****************************************************************/	
+/************************************************* My Own Additinal Help Functions****************************************************************/	
 	 public Student FindStudent(String sId)
 	 {
 		Student retval = null;
